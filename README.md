@@ -1,1 +1,17 @@
-# letterformyfriends.html
+<!doctype html>
+<html>
+<head>
+  <title>혜사모 친구들을 위한 크리스마스 편지</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1> 혜사모 친구들에게 </h1>
+  <h2> 2020.12.20 </h2><br>
+<p>  <a href="https://youtu.be/w14rSMl35ro" target=_blank title="아이유-미리 메리 크리스마스">
+Merry Christmas  </a href></p>
+  <img src="santacookie.jpg" width="300"><br>
+  친구들아 행복한 크리스마스를 보냈으면 좋겠다!!!<br><br>
+  -정혜린
+</body>
+</html>
